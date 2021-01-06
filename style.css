@@ -1,24 +1,23 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    margin: 40px 20px;
+    font-family: 'Roboto', sans-serif;
+    margin: 60px
 }
-#greeting-id{
+#header-id1{
     font-size: 60px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(83, 0, 139);
-    height: 20px;
-    
+    height:120px;
 }
-#name-id{
-    font-size: 60px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(26, 169, 194);
+#span-id1{
+    color: darkcyan;
 }
-img{
+.p1{
+    font-size: 16px;
+    width: 320px;
+    height: 70px;
+}
+.img1{
     height:400px;
     padding: 60px 80px;
-    
-    
 }
 .half-width{
     width:40%;
@@ -28,10 +27,71 @@ img{
 }
 .hire-link{
     text-decoration: none;
-    background-color: rgb(255, 115, 0);
+    background-color: rgb(228, 90, 10);
     padding: 15px 45px;
     border-radius: 5px;
-
-
-
+}
+#section2{
+    height: 1050px;
+}
+#header-id2{
+    font-size: 40px;
+    color: rgb(83, 0, 139);
+}
+#span-id2{
+    color: rgb(83, 0, 139);
+}
+.img2{
+    height:400px;
+    padding: 0px 0px;
+}
+.p2{
+    width: 550px;
+    height: 110px;
+}
+.download-link{
+    text-decoration: none;
+    background-color: rgb(228, 90, 10);
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.half-width1{
+    width:28%;
+    float: left;
+    margin-left:2%;
+    padding-left: 2%;
+    box-shadow: 0px 2.5812px 10.7436px gray;
+    border-radius: 19.7436px;
+    height: 300px;
+}
+#header-id3{
+    text-align: center;
+    font-size: 35px;
+    width: 1000px;
+    height: 150px;
+    padding: 0px 80px;
+}
+#span-id3{
+    color: rgb(228, 90, 10);;
+}
+#img3{
+    height:140px;
+}
+#p3{
+    font-size: 16px;
+    width: 300px;
+}
+#p4{
+    font-size: 16px;
+    width: 300px;
+}
+#p5{
+    font-size: 16px;
+    width: 300px;
+}
+#img4{
+    height:140px;
+}
+#img5{
+    height:140px;
 }
